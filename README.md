@@ -2,7 +2,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sousa-1588041a3/)[![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@felipeysousa0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeappsPGM&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeappsPGM&layout=compact)
 
 ### 🚀 Skills / Tecnologias que eu uso no meu dia
