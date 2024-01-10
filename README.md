@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeappsPGM&layout=compact)
 
-### Tecnologias que eu uso no meu dia
+### 🚀 Skills / Tecnologias que eu uso no meu dia
 <div style="display: inline-block"></br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,7 +19,7 @@
   
 </div>
 
-### Education
+### 📚 Education
 <div>
   <a href="https://www.udemy.com/home/my-courses/learning/">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
@@ -29,6 +29,13 @@
   </a>
 </div>
 
+### 🤖 Artificial Intelligence
+
+<div>
+  <a href="https://www.udemy.com/home/my-courses/learning/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </a>
+</div>
 <!--
 **felipeappsPGM/felipeappsPGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
