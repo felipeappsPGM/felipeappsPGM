@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   
 </div>
+
+### Education
 <div>
   <a href="https://www.udemy.com/home/my-courses/learning/">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
