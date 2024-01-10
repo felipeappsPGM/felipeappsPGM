@@ -1,10 +1,20 @@
-### Olá!, Eu sou o Felipe Chagas👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Sousa;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sousa-1588041a3/)[![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@felipeysousa0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeappsPGM&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeappsPGM&layout=compact)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipeappsPGM&bg_color=d4d1ff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
 
 ### 🚀 Skills / Tecnologias que eu uso no meu dia
 <div style="display: inline-block"></br>
@@ -35,6 +45,10 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   </a>
 </div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 <!--
 **felipeappsPGM/felipeappsPGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
