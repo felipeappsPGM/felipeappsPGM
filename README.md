@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeappsPGM&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeappsPGM&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeappsPGM&layout=compact)
 <!--
 **felipeappsPGM/felipeappsPGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
